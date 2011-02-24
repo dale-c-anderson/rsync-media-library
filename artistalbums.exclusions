@@ -1,0 +1,18 @@
+.*
+*.db
+*.config
+*.sitemap
+*.asp
+*.aspx
+*.cs?
+*.cue
+*.nfo
+*.log
+albumart_*.*
+albumartsmall.*
+*downloaded from Demonoid.*
+desktop.ini
+Automatically Add to iTunes
+Unknown Artist
+Podcasts
+shelob.pls
